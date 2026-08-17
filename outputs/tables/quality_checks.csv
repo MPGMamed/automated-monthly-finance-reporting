@@ -1,0 +1,5 @@
+check,actual,expected,status
+Source files loaded,3,3,PASS
+Transactions loaded,360,360,PASS
+Duplicate transaction IDs,0,0,PASS
+Missing cost centres,0,0,PASS
