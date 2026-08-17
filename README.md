@@ -39,6 +39,12 @@ node src/build_management_report.mjs
 - Data-quality controls
 - Formula-driven Excel management report with an executive summary and chart
 
+## Management report
+
+The completed workbook is available in [outputs/finance-report-20260817](outputs/finance-report-20260817/Monthly_Finance_Management_Report.xlsx).
+
+![Executive summary preview](outputs/finance-report-20260817/Executive_Summary.png)
+
 ## Data note
 
 All records are synthetic and created for portfolio use. No confidential information is included.
