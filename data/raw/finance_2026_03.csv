@@ -1,0 +1,121 @@
+transaction_id,transaction_date,reporting_month,transaction_type,cost_centre,actual_amount,budget_amount,source_file
+TXN-00241,2026-03-16,2026-03,Revenue,General & Admin,14930,14073.3,finance_2026_03.csv
+TXN-00242,2026-03-20,2026-03,Revenue,Sales & Marketing,17478,17351.61,finance_2026_03.csv
+TXN-00243,2026-03-22,2026-03,Revenue,General & Admin,25513,26520.53,finance_2026_03.csv
+TXN-00244,2026-03-05,2026-03,Revenue,Technology,17601,17806.09,finance_2026_03.csv
+TXN-00245,2026-03-22,2026-03,Revenue,General & Admin,9033,9070.23,finance_2026_03.csv
+TXN-00246,2026-03-02,2026-03,Revenue,Operations,14359,13782.31,finance_2026_03.csv
+TXN-00247,2026-03-01,2026-03,Revenue,Operations,17135,15900.59,finance_2026_03.csv
+TXN-00248,2026-03-08,2026-03,Revenue,General & Admin,10648,9715.26,finance_2026_03.csv
+TXN-00249,2026-03-08,2026-03,Revenue,General & Admin,22673,23571.8,finance_2026_03.csv
+TXN-00250,2026-03-09,2026-03,Revenue,Technology,11604,10677.7,finance_2026_03.csv
+TXN-00251,2026-03-11,2026-03,Revenue,Sales & Marketing,24454,24858.02,finance_2026_03.csv
+TXN-00252,2026-03-10,2026-03,Revenue,Sales & Marketing,20870,21538.46,finance_2026_03.csv
+TXN-00253,2026-03-01,2026-03,Revenue,Technology,10584,10108.68,finance_2026_03.csv
+TXN-00254,2026-03-23,2026-03,Revenue,Sales & Marketing,10385,10487.21,finance_2026_03.csv
+TXN-00255,2026-03-23,2026-03,Revenue,Sales & Marketing,14090,13168.19,finance_2026_03.csv
+TXN-00256,2026-03-28,2026-03,Revenue,People,11196,10199.7,finance_2026_03.csv
+TXN-00257,2026-03-17,2026-03,Revenue,General & Admin,15370,14251.85,finance_2026_03.csv
+TXN-00258,2026-03-05,2026-03,Revenue,General & Admin,11979,12267.11,finance_2026_03.csv
+TXN-00259,2026-03-12,2026-03,Revenue,Technology,17687,17441.19,finance_2026_03.csv
+TXN-00260,2026-03-12,2026-03,Revenue,Operations,21450,20848.22,finance_2026_03.csv
+TXN-00261,2026-03-16,2026-03,Revenue,General & Admin,23738,23188.13,finance_2026_03.csv
+TXN-00262,2026-03-15,2026-03,Revenue,General & Admin,20634,19401.84,finance_2026_03.csv
+TXN-00263,2026-03-02,2026-03,Revenue,General & Admin,17903,17423.27,finance_2026_03.csv
+TXN-00264,2026-03-02,2026-03,Revenue,People,25810,25237.43,finance_2026_03.csv
+TXN-00265,2026-03-18,2026-03,Revenue,Technology,22858,21883.1,finance_2026_03.csv
+TXN-00266,2026-03-15,2026-03,Revenue,Operations,14234,13790.45,finance_2026_03.csv
+TXN-00267,2026-03-16,2026-03,Revenue,Sales & Marketing,13242,12659.64,finance_2026_03.csv
+TXN-00268,2026-03-16,2026-03,Revenue,General & Admin,14270,13170.46,finance_2026_03.csv
+TXN-00269,2026-03-26,2026-03,Revenue,Sales & Marketing,16314,16672.09,finance_2026_03.csv
+TXN-00270,2026-03-21,2026-03,Revenue,Operations,19211,17744.66,finance_2026_03.csv
+TXN-00271,2026-03-01,2026-03,Revenue,Sales & Marketing,9663,8824.9,finance_2026_03.csv
+TXN-00272,2026-03-23,2026-03,Revenue,Technology,24851,25031.17,finance_2026_03.csv
+TXN-00273,2026-03-01,2026-03,Revenue,Technology,15723,14766.13,finance_2026_03.csv
+TXN-00274,2026-03-01,2026-03,Revenue,Sales & Marketing,14139,13721.85,finance_2026_03.csv
+TXN-00275,2026-03-28,2026-03,Revenue,General & Admin,16695,16176.7,finance_2026_03.csv
+TXN-00276,2026-03-16,2026-03,Revenue,Technology,18927,18522.74,finance_2026_03.csv
+TXN-00277,2026-03-26,2026-03,Revenue,General & Admin,19690,18130.36,finance_2026_03.csv
+TXN-00278,2026-03-23,2026-03,Revenue,Technology,16862,17302.34,finance_2026_03.csv
+TXN-00279,2026-03-14,2026-03,Revenue,People,12517,12452.64,finance_2026_03.csv
+TXN-00280,2026-03-10,2026-03,Revenue,Operations,13108,12453.17,finance_2026_03.csv
+TXN-00281,2026-03-02,2026-03,Revenue,Operations,23044,22377.11,finance_2026_03.csv
+TXN-00282,2026-03-01,2026-03,Revenue,Operations,12304,12246.71,finance_2026_03.csv
+TXN-00283,2026-03-26,2026-03,Revenue,General & Admin,17410,16988.13,finance_2026_03.csv
+TXN-00284,2026-03-01,2026-03,Revenue,Sales & Marketing,13145,13295.21,finance_2026_03.csv
+TXN-00285,2026-03-11,2026-03,Revenue,General & Admin,15442,14883.6,finance_2026_03.csv
+TXN-00286,2026-03-04,2026-03,Cost,Sales & Marketing,-14980,-14075.57,finance_2026_03.csv
+TXN-00287,2026-03-07,2026-03,Cost,Sales & Marketing,-8513,-8159.87,finance_2026_03.csv
+TXN-00288,2026-03-26,2026-03,Cost,General & Admin,-13455,-13835.59,finance_2026_03.csv
+TXN-00289,2026-03-15,2026-03,Cost,General & Admin,-3819,-3925.63,finance_2026_03.csv
+TXN-00290,2026-03-03,2026-03,Cost,General & Admin,-8046,-7802.5,finance_2026_03.csv
+TXN-00291,2026-03-28,2026-03,Cost,People,-7401,-7981.77,finance_2026_03.csv
+TXN-00292,2026-03-02,2026-03,Cost,Operations,-6484,-6290.59,finance_2026_03.csv
+TXN-00293,2026-03-15,2026-03,Cost,General & Admin,-4238,-4538.96,finance_2026_03.csv
+TXN-00294,2026-03-25,2026-03,Cost,General & Admin,-10606,-9776.29,finance_2026_03.csv
+TXN-00295,2026-03-20,2026-03,Cost,People,-3198,-2944.58,finance_2026_03.csv
+TXN-00296,2026-03-23,2026-03,Cost,Operations,-7755,-7191.82,finance_2026_03.csv
+TXN-00297,2026-03-21,2026-03,Cost,People,-4051,-4059.15,finance_2026_03.csv
+TXN-00298,2026-03-08,2026-03,Cost,People,-8707,-8342.46,finance_2026_03.csv
+TXN-00299,2026-03-07,2026-03,Cost,Operations,-12140,-12291.31,finance_2026_03.csv
+TXN-00300,2026-03-02,2026-03,Cost,Technology,-7373,-7615.65,finance_2026_03.csv
+TXN-00301,2026-03-19,2026-03,Cost,Operations,-10870,-10624.78,finance_2026_03.csv
+TXN-00302,2026-03-03,2026-03,Cost,Sales & Marketing,-3560,-3726.35,finance_2026_03.csv
+TXN-00303,2026-03-05,2026-03,Cost,Sales & Marketing,-5660,-5217.18,finance_2026_03.csv
+TXN-00304,2026-03-10,2026-03,Cost,General & Admin,-8052,-8674.21,finance_2026_03.csv
+TXN-00305,2026-03-23,2026-03,Cost,People,-4005,-3836.46,finance_2026_03.csv
+TXN-00306,2026-03-04,2026-03,Cost,Operations,-11129,-10647.16,finance_2026_03.csv
+TXN-00307,2026-03-26,2026-03,Cost,Technology,-3394,-3316.95,finance_2026_03.csv
+TXN-00308,2026-03-22,2026-03,Cost,Operations,-12198,-11412.64,finance_2026_03.csv
+TXN-00309,2026-03-01,2026-03,Cost,General & Admin,-6543,-6443.26,finance_2026_03.csv
+TXN-00310,2026-03-02,2026-03,Cost,Technology,-5107,-5383.54,finance_2026_03.csv
+TXN-00311,2026-03-11,2026-03,Cost,People,-8576,-9145.85,finance_2026_03.csv
+TXN-00312,2026-03-10,2026-03,Cost,Operations,-3426,-3376.67,finance_2026_03.csv
+TXN-00313,2026-03-20,2026-03,Cost,General & Admin,-5228,-5079.21,finance_2026_03.csv
+TXN-00314,2026-03-09,2026-03,Cost,People,-5804,-6194.5,finance_2026_03.csv
+TXN-00315,2026-03-17,2026-03,Cost,People,-9959,-9694.68,finance_2026_03.csv
+TXN-00316,2026-03-09,2026-03,Cost,Operations,-4583,-4352.64,finance_2026_03.csv
+TXN-00317,2026-03-20,2026-03,Cost,Sales & Marketing,-13648,-13554.32,finance_2026_03.csv
+TXN-00318,2026-03-20,2026-03,Cost,Sales & Marketing,-3914,-3847.46,finance_2026_03.csv
+TXN-00319,2026-03-24,2026-03,Cost,Sales & Marketing,-3780,-3631.3,finance_2026_03.csv
+TXN-00320,2026-03-05,2026-03,Cost,General & Admin,-10209,-10727.61,finance_2026_03.csv
+TXN-00321,2026-03-28,2026-03,Cost,General & Admin,-5506,-5746.36,finance_2026_03.csv
+TXN-00322,2026-03-16,2026-03,Cost,General & Admin,-13615,-12774.76,finance_2026_03.csv
+TXN-00323,2026-03-12,2026-03,Cost,Technology,-5129,-4808.4,finance_2026_03.csv
+TXN-00324,2026-03-07,2026-03,Cost,Technology,-11849,-11329.83,finance_2026_03.csv
+TXN-00325,2026-03-10,2026-03,Cost,Operations,-14685,-14479.81,finance_2026_03.csv
+TXN-00326,2026-03-19,2026-03,Cost,Operations,-11454,-11381.86,finance_2026_03.csv
+TXN-00327,2026-03-04,2026-03,Cost,General & Admin,-11379,-11589.92,finance_2026_03.csv
+TXN-00328,2026-03-20,2026-03,Cost,Technology,-3344,-3355.74,finance_2026_03.csv
+TXN-00329,2026-03-21,2026-03,Cost,Sales & Marketing,-12256,-12743.53,finance_2026_03.csv
+TXN-00330,2026-03-08,2026-03,Cost,Sales & Marketing,-5018,-5089.13,finance_2026_03.csv
+TXN-00331,2026-03-07,2026-03,Cost,Technology,-10879,-11309.7,finance_2026_03.csv
+TXN-00332,2026-03-05,2026-03,Cost,Operations,-7058,-7016.13,finance_2026_03.csv
+TXN-00333,2026-03-22,2026-03,Cost,General & Admin,-8233,-8028.46,finance_2026_03.csv
+TXN-00334,2026-03-03,2026-03,Cost,General & Admin,-13149,-12774.35,finance_2026_03.csv
+TXN-00335,2026-03-23,2026-03,Cost,Technology,-8041,-8121.33,finance_2026_03.csv
+TXN-00336,2026-03-28,2026-03,Cost,Sales & Marketing,-8993,-8305.16,finance_2026_03.csv
+TXN-00337,2026-03-23,2026-03,Cost,Operations,-4700,-4988.38,finance_2026_03.csv
+TXN-00338,2026-03-22,2026-03,Cost,General & Admin,-12080,-11995.73,finance_2026_03.csv
+TXN-00339,2026-03-25,2026-03,Cost,Technology,-8984,-9095.67,finance_2026_03.csv
+TXN-00340,2026-03-05,2026-03,Cost,Sales & Marketing,-6528,-6803.23,finance_2026_03.csv
+TXN-00341,2026-03-23,2026-03,Cost,Technology,-8398,-8784.4,finance_2026_03.csv
+TXN-00342,2026-03-18,2026-03,Cost,Sales & Marketing,-14011,-13695.66,finance_2026_03.csv
+TXN-00343,2026-03-02,2026-03,Cost,People,-12419,-12692.57,finance_2026_03.csv
+TXN-00344,2026-03-25,2026-03,Cost,People,-14074,-13997.92,finance_2026_03.csv
+TXN-00345,2026-03-09,2026-03,Cost,Sales & Marketing,-13512,-14316.74,finance_2026_03.csv
+TXN-00346,2026-03-23,2026-03,Cash Flow,General & Admin,11782,11359.29,finance_2026_03.csv
+TXN-00347,2026-03-26,2026-03,Cash Flow,Technology,8291,8172.54,finance_2026_03.csv
+TXN-00348,2026-03-25,2026-03,Cash Flow,General & Admin,3380,3401.67,finance_2026_03.csv
+TXN-00349,2026-03-17,2026-03,Cash Flow,People,-3263,-3225.68,finance_2026_03.csv
+TXN-00350,2026-03-27,2026-03,Cash Flow,General & Admin,3708,3990.37,finance_2026_03.csv
+TXN-00351,2026-03-22,2026-03,Cash Flow,Technology,4230,3972.65,finance_2026_03.csv
+TXN-00352,2026-03-27,2026-03,Cash Flow,Technology,11992,13039.81,finance_2026_03.csv
+TXN-00353,2026-03-15,2026-03,Cash Flow,People,-2474,-2662.43,finance_2026_03.csv
+TXN-00354,2026-03-17,2026-03,Cash Flow,Technology,5315,5685.6,finance_2026_03.csv
+TXN-00355,2026-03-18,2026-03,Cash Flow,Sales & Marketing,-5437,-5159.26,finance_2026_03.csv
+TXN-00356,2026-03-25,2026-03,Cash Flow,People,-1794,-1664.39,finance_2026_03.csv
+TXN-00357,2026-03-28,2026-03,Cash Flow,Sales & Marketing,3247,3062.31,finance_2026_03.csv
+TXN-00358,2026-03-25,2026-03,Cash Flow,Operations,-6222,-5533.02,finance_2026_03.csv
+TXN-00359,2026-03-25,2026-03,Cash Flow,Operations,-4695,-5102.97,finance_2026_03.csv
+TXN-00360,2026-03-22,2026-03,Cash Flow,Operations,9475,9085.2,finance_2026_03.csv
